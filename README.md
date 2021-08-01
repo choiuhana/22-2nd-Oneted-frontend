@@ -3,7 +3,7 @@
 oneted project
 
 ## 직접 작성한 부분
--브랜치</br>
+- 브랜치</br>
   feature/Application</br>
   feature/ApplicationAdd</br>
   feature/InfinitySlide</br>
@@ -14,7 +14,9 @@ oneted project
   feature/MainOrderBy</br>
   feature/MainSlider</br>
   feature/RegionButton</br>
-
+- Code Link
+https://github.com/choiuhana/22-2nd-Oneted-frontend/tree/main/src/pages/Main
+https://github.com/choiuhana/22-2nd-Oneted-frontend/tree/main/src/pages/Application
 
 ## 팀 구성
 
