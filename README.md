@@ -21,7 +21,7 @@ https://github.com/choiuhana/22-2nd-Oneted-frontend/tree/main/src/pages/Applicat
 ## 팀 구성
 
 <프론트엔드>
-박관용, 최창원, 최민재
+박관용, **최창원**, 최민재
 
 <백엔드>
 이원석, 박성준
