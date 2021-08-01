@@ -3,6 +3,17 @@
 oneted project
 
 ## 직접 작성한 부분
+-브랜치
+  feature/Application
+  feature/ApplicationAdd
+  feature/InfinitySlide
+  feature/MainFilter
+  feature/MainCaroselFilter
+  feature/MainJobCategory
+  feature/MainLayout
+  feature/MainOrderBy
+  feature/MainSlider
+  feature/RegionButton
 
 
 ## 팀 구성
